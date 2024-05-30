@@ -34,9 +34,9 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Vue 3](https://reactjs.org/) - JS framework
-- [Typescript](https://nextjs.org/) - JS extension
-- [Sass](https://styled-components.com/) - CSS pre-processor
+- [Vue 3](https://vuejs.org/) - JS framework
+- [Typescript](https://www.typescriptlang.org/) - JS extension
+- [Sass](https://sass-lang.com/) - CSS pre-processor
 
 ## Author
 
